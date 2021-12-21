@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="padding_content_horizontal">20dp</dimen>
+    <dimen name="padding_title_vertical">7dp</dimen>
+
+    <dimen name="padding_list_item_vertical_top">18dp</dimen>
+    <dimen name="padding_list_item_vertical_bottom">19dp</dimen>
+
+</resources>

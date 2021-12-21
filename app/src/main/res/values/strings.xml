@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Layouts</string>
+
+    <string name="diseases_title">Diseases</string>
+    <string name="abnormal_heart_rhythm">Abnormal Heart Rhythm</string>
+
+    <string name="hospitals_nearby">Hospitals Nearby</string>
+    <string name="hospital">Hospital</string>
+    <string name="labs">Labs</string>
+    <string name="doctor">Doctor</string>
+</resources>

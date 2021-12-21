@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#3683FC"/>
+            <size android:height="48dp" android:width="48dp"/>
+        </shape>
+    </item>
+    <item>
+        <layer-list >
+            <item android:gravity="center"
+                android:drawable="@drawable/ic_diseases_fab_part_outer"/>
+
+            <item android:gravity="center">
+                <inset
+                    android:insetBottom="6.5dp"
+                    android:drawable="@drawable/ic_diseases_fab_part_inner"/>
+            </item>
+        </layer-list>
+    </item>
+</layer-list>
+
